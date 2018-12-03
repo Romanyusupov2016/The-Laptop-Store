@@ -1,0 +1,20 @@
+{
+  "name": "laptop-store",
+  "version": "1.0.0",
+  "description": "The Complete JavaScript Course 2018 https://www.udemy.com/the-complete-javascript-course/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romanyusupov2016/The-Laptop-Store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romanyusupov2016/The-Laptop-Store/issues"
+  },
+  "homepage": "https://github.com/Romanyusupov2016/The-Laptop-Store#readme"
+}
